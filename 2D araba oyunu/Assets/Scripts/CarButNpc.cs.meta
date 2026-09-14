@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 410d7c92131352243a553eef6b6d3122
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - car1: {fileID: -173764596, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car2: {fileID: -314565652, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car3: {fileID: 74573192, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car4: {fileID: -1249319324, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car: {fileID: -585949554, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car5: {fileID: -1994980997, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car6: {fileID: -1482136960, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car7: {fileID: 8919373, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car8: {fileID: -1461785131, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car9: {fileID: 1775727999, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car10: {fileID: 1086494144, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car11: {fileID: -384303693, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car12: {fileID: 1390685663, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car13: {fileID: 2022979110, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car14: {fileID: -1154330771, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car15: {fileID: 790900668, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car16: {fileID: 338334699, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car17: {fileID: -659756847, guid: 98dd8f60b9b7ec24b8d41d37457afa97, type: 3}
+  - car18: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

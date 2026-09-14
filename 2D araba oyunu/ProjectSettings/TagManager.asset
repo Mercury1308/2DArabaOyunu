@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mainCar
+  - ExtraPuan
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 77375601
+    locked: 0
+  - name: Way
+    uniqueID: 2047171781
+    locked: 0
+  - name: CarButNPC
+    uniqueID: 2956362097
+    locked: 0
+  - name: mainCar
+    uniqueID: 3195427951
+    locked: 0
+  - name: Vinyet
+    uniqueID: 2630051525
+    locked: 0
+  - name: Canvas
+    uniqueID: 3716072657
+    locked: 0
